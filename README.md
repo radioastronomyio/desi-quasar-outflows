@@ -25,6 +25,8 @@ related_documents:
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Skeletal-lightgrey)]()
 
+![alt text](assets/desi-quasar-outflows-repo-banner.png)
+
 > Systematic measurement of quasar outflow energetics and AGN feedback significance using DESI DR1 spectroscopy and photoionization modeling.
 
 This project consumes the Analysis-Ready Dataset (ARD) built by [desi-cosmic-void-galaxies](https://github.com/radioastronomyio/desi-cosmic-void-galaxies) to perform large-scale measurement of physical properties in quasar-driven outflows. Through semi-automated spectral fitting and Cloudy photoionization modeling, the goal is to create the first comprehensive catalog of outflow energetics for thousands of DESI quasars.
@@ -36,6 +38,8 @@ This project consumes the Analysis-Ready Dataset (ARD) built by [desi-cosmic-voi
 ## 🔭 Background
 
 This section provides context for those less familiar with AGN feedback physics. If you already know BAL quasars and outflow energetics, skip to [Data Dependencies](#-data-dependencies).
+
+![alt text](assets/desi-quasar-outflows-infographic.jpg)
 
 ### What Are Quasar Outflows?
 
